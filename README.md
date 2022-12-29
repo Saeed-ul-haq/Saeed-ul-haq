@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development (React and Javascript)
 - 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on
-- 📫 How to reach me saeedulhaquet@gmail.com
+- 📫 Reachout to me on saeedulhaquet@gmail.com
 
 <!---
 Saeed-ul-haq/Saeed-ul-haq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
